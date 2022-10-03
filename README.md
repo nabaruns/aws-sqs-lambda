@@ -1,1 +1,3 @@
-# aws-sqs-lambda
+# AWS SQS Lambda in Go
+
+Trigger Lambda fucntion on SQS notification
